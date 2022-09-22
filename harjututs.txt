@@ -1,2 +1,4 @@
 github on coodi jagamis koht kus koodi loojad saavad jagada ja näidata enda koodi, inimesed kasutavad seda et teiste koode kasutada ja tasuta programme alla laadida
 ma hakkan githubi kasutama et enda programmi kirjutada.
+
+github loodi 2008, githubi loojad on Tom Preston-Werner, Chris Wanstrath, P. J. Hyett and Scott Chacon, see oli paar kuud avalikulesaadaval beta testimiseks
